@@ -1,9 +1,6 @@
 [![header]](https://angelinurs.github.io/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B)](https://github.com/angelinurs](https://angelinurs.github.io/))
-
-
-## 🛠 Tech Stack
+## ![Tech-Stack]
 
 💻 Language & Framework
 
@@ -41,8 +38,11 @@ Here are some ideas to get you started:
 
 <!-- Top Animation -->
 [header]: https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Alex%20Code%20Space&fontColor=fffffff
-[Typing SVG]: https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B
 <!-- Top Animation -->
+
+<!-- Topic -->
+[Tech-Stack]: https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9B%A0+Tech+Stack
+<!-- Topic -->
 
 <!-- Tech Stack -->
 [JAVA]: https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white
