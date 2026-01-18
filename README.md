@@ -1,6 +1,6 @@
 [![header]](https://angelinurs.github.io/)
 
-## ![Tech-Stack]
+## [![Tech-Stack]](https://github.com/angelinurs/angelinurs/blob/main/README.md#)
 
 💻 Language & Framework
 
