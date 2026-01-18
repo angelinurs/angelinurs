@@ -1,6 +1,6 @@
-[![header]](https://github.com/angelinurs)
+[![header]](https://angelinurs.github.io/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B)](https://github.com/angelinurs)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B)](https://github.com/angelinurs](https://angelinurs.github.io/))
 
 
 ## 🛠 Tech Stack
